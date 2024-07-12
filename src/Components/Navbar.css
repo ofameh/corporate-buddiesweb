@@ -1,0 +1,51 @@
+/* src/components/Navbar.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white; /* Set background color to white */
+  font-family: "Tahoma", Geneva, sans-serif;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: #99582a;
+}
+
+.navbar-logo {
+  color: black; /* Set text color to black */
+  font-size: 1rem;
+  flex: 1;
+}
+
+.navbar-center-links {
+  list-style: none;
+  display: flex;
+  flex: 2;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-center-links li {
+  margin: 0 1rem;
+}
+
+.navbar-center-links a {
+  color: black; /* Ensure text color is black */
+  text-decoration: none;
+}
+
+.navbar-login {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  color: black; /* Ensure text color is black */
+  text-decoration: none;
+  border-radius: 20px; /* Make the button round */
+}
+
+.navbar-login button {
+  border-radius: 20px; /* Make the button round */
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: white;
+}

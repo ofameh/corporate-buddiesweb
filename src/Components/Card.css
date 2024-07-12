@@ -1,0 +1,70 @@
+.card {
+  border: 1px solid #ddd;
+  overflow: hidden;
+  margin: 1rem;
+  padding: 1rem;
+  text-align: center;
+  width: 200px;
+  border-radius: 10px 10px 10px 10px;
+  width: 300px;
+  height: 
+}
+
+.card-image {
+  height: 150px;
+}
+
+.card-content {
+  padding: 1 rem;
+  font-family: tahoma;
+  font-size: 1.0;
+
+}
+
+.round-button {
+  display: inline-block;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px; /* Make the button round */
+  text-align: center;
+  text-decoration: none;
+  background-color: #03045e;
+  color: white;
+  cursor: pointer;
+}
+
+.round-buttona {
+  display: inline-block;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px; /* Make the button round */
+  text-align: center;
+  text-decoration: none;
+  background-color: #432818;
+  color: white;
+  cursor: pointer;
+}
+
+.round-buttonb {
+  display: inline-block;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px; /* Make the button round */
+  text-align: center;
+  text-decoration: none;
+  background-color: #432818;
+  color: white;
+  cursor: pointer;
+}
+
+.round-buttonc {
+  display: inline-block;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px; /* Make the button round */
+  text-align: center;
+  text-decoration: none;
+  background-color: #386641;
+  color: white;
+  cursor: pointer;
+}

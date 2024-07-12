@@ -1,0 +1,9 @@
+/* src/components/App.css */
+.cards-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 2rem;
+  font-style: normal;
+  font-family: "Times New Roman", Times, serif;
+}
